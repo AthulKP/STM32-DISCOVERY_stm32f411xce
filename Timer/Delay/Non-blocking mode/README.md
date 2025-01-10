@@ -1,3 +1,3 @@
-# Basic delay generation
-In this specific example, the General Purpose Timer (Timer 4) was used to generate a delay in milliseconds, which is used to blink the green LED (PD 12) on board. The Timer delay is mapped to the NVIC interrupt so that the main code runs and when the counter reaches the predefined value interrupt is triggered. The user button (PA 0) press will toggle the onboard orange LED (PD 13) output to verify whether the system is in non-blocking mode.   \
+# Delay with interrupt
+In this specific example, the General Purpose Timer (Timer 4) was used to generate a delay in milliseconds, which is used to blink the green LED (PD 12) on board. The Timer delay is mapped to the NVIC interrupt so that the main code runs and the interrupt is triggered when the predefined delay is completed. The user button (PA 0) press will toggle the onboard orange LED (PD 13) output to verify whether the system is in non-blocking mode.   \
 [More about STM32 board](https://www.st.com/resource/en/user_manual/um1842-discovery-kit-with-stm32f411ve-mcu-stmicroelectronics.pdf)
