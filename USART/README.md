@@ -1,7 +1,7 @@
 # Basic USART data TX 
-In this specific example, made use of the USART2 for communicating with the external world. This can also be used for debug purpose. We require an additonal hardware that is a [USB to Serial converter](https://components101.com/modules/pl2303-usb-to-ttl-serial-converter-module)\
+In this specific example, made use of the USART2 for communicating with the external world. This can also be used for debug purpose. We require an additonal hardware that is a [USB to Serial converter](https://components101.com/modules/pl2303-usb-to-ttl-serial-converter-module)
 # Connection diagram
-![plot](C:\Users\athul\Downloads\connection.png)
+![screenshot](C:/Users/athul/Downloads/connection.png)
 \
 [More about STM32 board](https://www.st.com/resource/en/user_manual/um1842-discovery-kit-with-stm32f411ve-mcu-stmicroelectronics.pdf)
 
