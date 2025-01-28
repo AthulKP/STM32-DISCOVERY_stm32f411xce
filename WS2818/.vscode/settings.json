@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gpio_hal.h": "c",
+        "timer_hal.h": "c"
+    }
+}
