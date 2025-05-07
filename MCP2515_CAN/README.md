@@ -15,7 +15,7 @@
 | PB13          | SCK           |
 | PD8           | INT           |
 
-[More about STM32F411CE ](https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
+[More about STM32F411CE ](https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)\
 [More about MCP2515 ](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP2515-Stand-Alone-CAN-Controller-with-SPI-20001801J.pdf)
 
 
