@@ -1,10 +1,10 @@
 # Basic MCP2515 CAN driver code 
-## Current configuration :\
+## Current configuration :
 - CAN bus speed fixed to 500kbps
-- MCP clock set to 16Mhz
-- CAN send : both standard ID and extented ID
-- CAN receive : both standard ID and extented ID\
-## PinMap :\
+- MCP clock set to 16MHz
+- CAN send: both standard ID and extended ID
+- CAN receive: both standard ID and extended ID\
+## PinMap :
 | STM Pin       | MCP Pin       |
 | ------------- |:-------------:|
 | VCC           | 5v            |
