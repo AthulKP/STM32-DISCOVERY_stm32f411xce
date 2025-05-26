@@ -25,16 +25,16 @@ These projects explore the **ARM Cortex-M4** microcontroller architecture, built
 
 ## 📁 Project Structure
 📦32F411EDISCOVERY
- ┣ 📂[I3G4250D_gyro](./I3G4250D_gyro)
- ┣ 📂[Interrupt](./Interrupt)
- ┣ 📂[LED_Blink](./LED_Blink)
- ┣ 📂[LSM303AGR_accelero_magneto](./LSM303AGR_accelero_magneto)
- ┣ 📂[MCP2515_CAN](./MCP2515_CAN/)
- ┣ 📂[PWM_led_fading](./PWM_led_fading)
- ┣ 📂[Timer](./Timer)
- ┣ 📂[USART_serial_port](./USART_serial_port)
- ┣ 📂[User_Push_Button](./User_Push_Button)
- ┣ 📂[WS2818_addressable_led](./WS2818_addressable_led)
+ ┣ 📂[I3G4250D_gyro](./I3G4250D_gyro)   
+ ┣ 📂[Interrupt](./Interrupt)   
+ ┣ 📂[LED_Blink](./LED_Blink)    
+ ┣ 📂[LSM303AGR_accelero_magneto](./LSM303AGR_accelero_magneto)   
+ ┣ 📂[MCP2515_CAN](./MCP2515_CAN/)    
+ ┣ 📂[PWM_led_fading](./PWM_led_fading)    
+ ┣ 📂[Timer](./Timer)    
+ ┣ 📂[USART_serial_port](./USART_serial_port)    
+ ┣ 📂[User_Push_Button](./User_Push_Button)    
+ ┣ 📂[WS2818_addressable_led](./WS2818_addressable_led)    
  ┗ 📜README.md
  
 Each folder represents an **independent project**, designed to be minimal and educational.
