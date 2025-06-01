@@ -20,7 +20,6 @@ This project establishes SPI communication between the STM32F4 Discovery board a
 | VDD      | 3.3V     | Power                  | 3.3V supply              |
 | GND      | —        | Ground                 |                         |
 
----
 
 ## 📁 Project Structure
 📦I3G4250D_gyro  
