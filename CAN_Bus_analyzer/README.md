@@ -48,5 +48,5 @@ This project is open-source. You can choose to add a license such as [MIT](https
 
 ## 🧑‍💻 Author
 
-[Your Name] – *Feel free to include your contact, GitHub profile, or LinkedIn*
+Athul K P – *Feel free to include your contact, GitHub profile, or LinkedIn*
 
