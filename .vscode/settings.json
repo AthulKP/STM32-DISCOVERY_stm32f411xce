@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gpio_hal.h": "c",
+        "spi_hal.h": "c",
+        "i3g4250d_hal.h": "c"
+    }
+}

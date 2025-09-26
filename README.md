@@ -31,6 +31,7 @@ These projects explore the **ARM Cortex-M4** microcontroller architecture, built
  ┣ 📂[LSM303AGR_accelero_magneto](./LSM303AGR_accelero_magneto)   
  ┣ 📂[MCP2515_CAN](./MCP2515_CAN/)    
  ┣ 📂[PWM_led_fading](./PWM_led_fading)    
+ ┣ 📂[STM32 CAN bus analyzer tool](./STM32%20CAN%20bus%20analyzer%20tool/)    
  ┣ 📂[SYSCLK_PLL](./SYSCLK_PLL)  
  ┣ 📂[Timer](./Timer)    
  ┣ 📂[USART_serial_port](./USART_serial_port)    
